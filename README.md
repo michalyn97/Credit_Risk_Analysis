@@ -2,7 +2,7 @@
 Credit Risk - Challenge 17
 
 # Overview of Analysis
-The purpose of this project is oversample and unsample data using supervised machine learning algorithms to predit credit risk for loans.   
+The purpose of this project is oversample and unsample data using supervised machine learning algorithms to predict credit risk for loans.   
 
 # Results
 * Native Random Oversampling:
